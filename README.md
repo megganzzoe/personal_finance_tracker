@@ -34,6 +34,9 @@ This app helps users track their income, expenses, and savings through an intuit
 ![summary](finance_summary.png)
 ![reports](category_report.png)
 
+#Github repositary link
+[https://github.com/megganzzoe/personal_finance_tracker.git](https://github.com/megganzzoe/personal_finance_tracker.git)
+
 # Project takeaways
 
 Building GUI applications with Python
